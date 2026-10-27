@@ -24,7 +24,7 @@ Memoria runs both speech recognition and language understanding locally. The rec
 
 ## Demo
 
-**[Open the live Memoria demo](https://collecting-arts-passed-demands.trycloudflare.com)**
+**[Open the live Memoria demo](https://actors-pendant-packard-outlet.trycloudflare.com)**
 
 Press **“Archive this memory”** to run the complete pipeline on local CPU models. Please allow about a minute.
 

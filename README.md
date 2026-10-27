@@ -4,7 +4,7 @@
 
 Built for DEV's Hacktoberfest 2026 **Ghost in the Machine** challenge. It honors the past without putting private family recordings on somebody else's server.
 
-**Live demo:** https://collecting-arts-passed-demands.trycloudflare.com (temporary tunnel; local CPU inference can take about a minute).
+**Live demo:** https://actors-pendant-packard-outlet.trycloudflare.com (temporary tunnel; local CPU inference can take about a minute).
 
 **DEV challenge write-up:** https://dev.to/jeffreyturov/memoria-keeping-family-voices-alive-with-local-whisper-gemma-eap
 
