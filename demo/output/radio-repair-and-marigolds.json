@@ -1,0 +1,97 @@
+{
+  "card": {
+    "title": "Radio Repair and Marigolds",
+    "summary": "Matteo’s radio shop in Guadalajara offered a quiet space for a young boy’s Saturdays. He learned about patience and the value of discarded objects through simple tasks like labeling envelopes and tending to the marigolds.",
+    "people": [
+      {
+        "name": "Matteo",
+        "relationship": "Grandfather"
+      },
+      {
+        "name": "Speaker",
+        "relationship": "Grandson"
+      }
+    ],
+    "places": [
+      "Guadalajara",
+      "old market",
+      "radio repair shop",
+      "wooden stool"
+    ],
+    "time_references": [
+      "summer of 1987",
+      "nine"
+    ],
+    "themes": [
+      "childhood",
+      "family",
+      "craftsmanship",
+      "memory"
+    ],
+    "quotes": [
+      "He called that red bicycle la valiente, the brave one.",
+      "a broken thing is only a story waiting for patient hands.",
+      "Whenever I smell cinnamon, I am nine years old again, sitting on that wooden stool while the radios hummed and the marigolds leaned toward the sun."
+    ],
+    "follow_up_questions": [
+      "Could you describe the sound of the radios in the shop?",
+      "What was Matteo like as a person?",
+      "Can you tell me more about the red bicycle and why he called it ‘la valiente’?"
+    ]
+  },
+  "transcription": {
+    "text": "My grandfather Matteo owned a tiny radio repair shop beside the old market in Guadalajara. In the summer of 1987, when I was nine, he let me work there every Saturday. I could not repair anything, so my job was to label the small envelopes of screws and to water the yellow marigolds outside his window. At noon, he always tuned the radio to a Bolero station, made two cups of cinnamon tea, and told me about the first bicycle he rebuilt from discarded parts. He called that red bicycle la valiente, the brave one. Years later, he gave it to me and said, a broken thing is only a story waiting for patient hands. I still keep one of his empty screw envelopes in my toolbox. Whenever I smell cinnamon, I am nine years old again, sitting on that wooden stool while the radios hummed and the marigolds leaned toward the sun.",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.52,
+        "text": "My grandfather Matteo owned a tiny radio repair shop beside the old market in Guadalajara."
+      },
+      {
+        "start": 6.56,
+        "end": 12.0,
+        "text": "In the summer of 1987, when I was nine, he let me work there every Saturday."
+      },
+      {
+        "start": 13.04,
+        "end": 18.56,
+        "text": "I could not repair anything, so my job was to label the small envelopes of screws and to water"
+      },
+      {
+        "start": 18.56,
+        "end": 24.32,
+        "text": "the yellow marigolds outside his window. At noon, he always tuned the radio to a"
+      },
+      {
+        "start": 24.4,
+        "end": 30.48,
+        "text": "Bolero station, made two cups of cinnamon tea, and told me about the first bicycle he rebuilt from"
+      },
+      {
+        "start": 30.48,
+        "end": 38.64,
+        "text": "discarded parts. He called that red bicycle la valiente, the brave one. Years later, he gave it"
+      },
+      {
+        "start": 38.64,
+        "end": 45.2,
+        "text": "to me and said, a broken thing is only a story waiting for patient hands. I still keep one of"
+      },
+      {
+        "start": 45.2,
+        "end": 52.16,
+        "text": "his empty screw envelopes in my toolbox. Whenever I smell cinnamon, I am nine years old again,"
+      },
+      {
+        "start": 52.16,
+        "end": 57.44,
+        "text": "sitting on that wooden stool while the radios hummed and the marigolds leaned toward the sun."
+      }
+    ],
+    "language": "en",
+    "language_probability": 0.9993,
+    "duration_seconds": 57.79,
+    "model": "faster-whisper/small (CPU int8)"
+  },
+  "elapsed_seconds": 33.36
+}
