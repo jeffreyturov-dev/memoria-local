@@ -6,6 +6,8 @@ Built for DEV's Hacktoberfest 2026 **Ghost in the Machine** challenge. It honors
 
 **Live demo:** https://collecting-arts-passed-demands.trycloudflare.com (temporary tunnel; local CPU inference can take about a minute).
 
+**DEV challenge write-up:** https://dev.to/jeffreyturov/memoria-keeping-family-voices-alive-with-local-whisper-gemma-eap
+
 ## What makes it work
 
 - **faster-whisper / Whisper small**, CPU int8: local speech-to-text with segment timestamps.
